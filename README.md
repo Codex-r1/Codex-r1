@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codex-r1
-- 👀 I’m interested in Game Development,Cyber Sec and Software development
-- 🌱 I’m currently learning Computer Science and Networking
+- 👀 I’m interested in Networking ,Cyber Sec and Software development
+- 🌱 I’m currently learning Computer Science.
 
 
 <!---
